@@ -31,14 +31,14 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | ------ | ------ | ------ |
 | [Number of Islands](https://leetcode.com/problems/number-of-islands/)  |  |  |
 | [Partition Labels](https://leetcode.com/problems/partition-labels/) |  |  |
-| [Two Sum](https://leetcode.com/problems/two-sum/) |  |  |
+| [Two Sum](https://leetcode.com/problems/two-sum/) | Done |  |
 | [Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/)  |  |  |
 | [LRU Cache](https://leetcode.com/problems/lru-cache/)  |  |  |
 | [Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/)  |  |  |
 | [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/) |  |  |
 | [Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)  |  |  |
 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)  |  |  |
-| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)  |  |  |
+| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)  | Done |  |
 
 
 ---
@@ -107,11 +107,11 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | [Design Tic-Tac-Toe]( https://leetcode.com/problems/design-tic-tac-toe/) |  |  |
 | [Decode Ways](https://leetcode.com/problems/decode-ways/) |  |  |
 | [Baseball Game](https://leetcode.com/problems/baseball-game/) |  |  |
-| [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) |  |  |
+| [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) |Done  |  |
 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)  |  |  |
 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)  |  |  |
 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) |  |  |
-| [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) |  |  |
+| [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) |Done  |  |
 
 ---
 ## Contribute
